@@ -1,0 +1,5 @@
+/Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView/bin/Debug/SimplePickerView.dll.mdb
+/Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView/bin/Debug/SimplePickerView.dll
+/Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView/obj/Debug/SimplePickerView.dll
+/Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView/obj/Debug/SimplePickerView.dll.mdb

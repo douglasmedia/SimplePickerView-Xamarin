@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimplePickerView/SimplePickerView.cs">
+    <Files>
+      <File FileName="SimplePickerView/SimplePickerViewModel.cs" Line="56" Column="56" />
+      <File FileName="SimplePickerView/SimplePickerView.cs" Line="5" Column="5" />
+      <File FileName="../../Downloads/ModalPickerViewController-master/SharpMobileCode.ModalPicker/ModalPickerViewController.cs" Line="5" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

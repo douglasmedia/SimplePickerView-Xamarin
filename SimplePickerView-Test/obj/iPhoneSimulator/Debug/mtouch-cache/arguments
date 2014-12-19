@@ -1,0 +1,33 @@
+# Version: 8.4.0.47 (7244769)
+# [first argument, ignore] # /Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView-Test/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.47/bin/mtouch \
+	--cache \
+	obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	--sim \
+	bin/iPhoneSimulator/Debug/SimplePickerViewTest.app \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.1 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView/bin/Debug//SimplePickerView.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView/bin/Debug//SimplePickerView.dll \
+	/Users/RobinDouglas/Projects/SimplePickerView/SimplePickerView-Test/bin/iPhoneSimulator/Debug//SimplePickerViewTest.exe \
